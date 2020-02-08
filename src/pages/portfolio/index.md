@@ -1,9 +1,8 @@
 import Helmet from "react-helmet"
-import H1 from "../components/designSystem/H1"
 
 <Helmet title="Portfolio" />
 
-<H1>Portfolio</H1>
+# Portfolio
 
 ## Facebook
 
